@@ -1,0 +1,451 @@
+[
+  {
+    "id": "srv-1",
+    "slug": "mandap-decoration",
+    "title": "Mandap Decoration",
+    "category": "Mandap",
+    "shortDesc": "Traditional and modern luxury mandap designs with exotic fresh flowers, velvet drapes, and royal chandelier lighting.",
+    "fullDesc": "The wedding mandap is the sacred heart of your marriage ceremony. At Shivansh Decoration, we design bespoke traditional and contemporary mandaps tailored to your spiritual customs and royal aesthetic tastes. Featuring fresh exotic roses, marigolds, tuberoses, ornate brass kalash, carved wooden pillars, crystal hanging accents, and gentle ambient lighting for stunning photography.",
+    "startingPrice": 45000,
+    "heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Custom 4-pillar, 6-pillar, and circular dome mandap structures",
+      "Fresh exotic floral cascades (Roses, Orchids, Rajnigandha, Jasmine)",
+      "Royal Velvet & Gold Silk fabric drapery",
+      "Ornate Havankund setup with brass diyas and traditional floor rangoli",
+      "Photogenic warm-tone LED focus lighting & chandelier fixtures"
+    ],
+    "packagesAvailable": [
+      "Basic Mandap Setup",
+      "Premium Floral Mandap",
+      "Royal Maharaja Glass Mandap"
+    ],
+    "faqs": [
+      {
+        "question": "How much time is required to set up a wedding mandap?",
+        "answer": "Our professional team typically requires 6 to 10 hours for a full luxury mandap installation. We ensure complete readiness 2 hours before the rituals begin."
+      },
+      {
+        "question": "Can we customize the floral colors according to the bride and groom attire?",
+        "answer": "Absolutely! We offer complete color coordination to harmonize with your wedding outfits, theme, and venue ambience."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-2",
+    "slug": "wedding-stage-decoration",
+    "title": "Wedding Stage Decoration",
+    "category": "Wedding",
+    "shortDesc": "Grand stage backdrops, maharaja sofa seating, cascading floral walls, and dynamic spotlighting for memorable receptions.",
+    "fullDesc": "Make your grand stage reception majestic with our grand royal backdrop architectures, velvet throne seating, layered floral arches, geometric gold frames, and multi-tier stage carpet layouts that elevate every photo and video frame.",
+    "startingPrice": 55000,
+    "heroImage": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "3D luxury structural backdrops with LED video wall integration",
+      "Carved Maharaja & Victorian couple seating with royal cushions",
+      "High-density imported floral borders & hanging wisteria vines",
+      "Stage carpet runners in red, ivory, or royal gold velvet",
+      "Intelligent moving head spotlights and ambient beam washes"
+    ],
+    "packagesAvailable": [
+      "Classic Gold Stage",
+      "Royal Floral Symphony Stage",
+      "Modern Minimalist Glass Stage"
+    ],
+    "faqs": [
+      {
+        "question": "Do you provide stage lighting along with the backdrop?",
+        "answer": "Yes, all our stage decoration services include stage wash lights, focus spotlights, and warm accent lighting."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-3",
+    "slug": "reception-decoration",
+    "title": "Reception Decoration",
+    "category": "Wedding",
+    "shortDesc": "Glamorous evening reception styling with starry fairy light ceilings, candlelit centerpieces, and grand entrance walkways.",
+    "fullDesc": "An evening of celebration deserves breathtaking glamour. We transform banquet halls, lawns, and palace courtyards into magical fairy-tale reception settings complete with crystal chandeliers, candlelit tables, photo booths, and champagne bar setups.",
+    "startingPrice": 60000,
+    "heroImage": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Starlit LED tunnel pathways and fairy light canopies",
+      "Crystal chandelier clusters and vintage lanterns",
+      "Table runners, luxury linen, and tall floral centerpieces",
+      "Personalized couple monogram neon boards and welcome signage"
+    ],
+    "packagesAvailable": [
+      "Twilight Glamour",
+      "Royal Banquet Elegance",
+      "Imperial Palace Reception"
+    ],
+    "faqs": [
+      {
+        "question": "Can you handle outdoor reception lawns?",
+        "answer": "Yes! We specialize in both indoor banquet halls and large outdoor open-air garden venues."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-4",
+    "slug": "birthday-decoration",
+    "title": "Birthday Decoration",
+    "category": "Birthday",
+    "shortDesc": "Creative birthday themes, organic balloon arches, cartoon cutouts, neon backdrops, and dessert table styling.",
+    "fullDesc": "From magical 1st birthday milestones to grand 50th jubilee celebrations, we craft customized theme decorations including Jungle Safari, Princess Castle, Superhero Adventure, Space Odyssey, and Chic Adult Rose-Gold Lounge themes.",
+    "startingPrice": 15000,
+    "heroImage": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Customized 3D theme backdrops with LED name marquee lights",
+      "Organic pastel, chrome, and confetti balloon garlands",
+      "Thematic dessert table pedestals and cake stands",
+      "Selfie photo booths with customized fun props"
+    ],
+    "packagesAvailable": [
+      "Mini Joy Package",
+      "Deluxe Theme Party",
+      "Grand Carousel Experience"
+    ],
+    "faqs": [
+      {
+        "question": "Do you provide theme-based cartoon cutouts and lighting?",
+        "answer": "Yes, we provide 3D life-sized character cutouts, illuminated marquee letters, and specialized party lighting."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-5",
+    "slug": "engagement-decoration",
+    "title": "Engagement Decoration",
+    "category": "Engagement",
+    "shortDesc": "Romantic ring ceremony themes with floral rings, infinity arches, monogram signage, and fairy light backdrops.",
+    "fullDesc": "Celebrate the promise of forever with an enchanting engagement setup. We blend pastel florals, geometric gold arches, mirror floorings, and romantic candlelight to create an intimate yet grand setting for your ring exchange.",
+    "startingPrice": 35000,
+    "heroImage": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Giant floral ring and heart-shaped arches",
+      "Mirror ramp walkway with ground fog / cold pyros compatibility",
+      "Customized neon LED couple hashtags (\"#DeepikaWedsRahul\")",
+      "Delicate eucalyptus, baby’s breath, and pastel carnation styling"
+    ],
+    "packagesAvailable": [
+      "Elegance Ring Package",
+      "Blush Romance Package",
+      "Imperial Crown Engagement"
+    ],
+    "faqs": [
+      {
+        "question": "Can we have customized couple hashtags in neon lights?",
+        "answer": "Yes! We create custom laser-cut acrylic neon signs with your initials or hashtag."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-6",
+    "slug": "floral-decoration",
+    "title": "Floral Decoration",
+    "category": "Wedding",
+    "shortDesc": "Artisanal flower styling using fresh Dutch roses, orchids, lilies, carnations, and fragrant Indian marigolds.",
+    "fullDesc": "Flowers bring life, aroma, and divine beauty to every event. Our floral decorators handcraft intricate flower canopies, floral carpets, suspended botanical ceilings, and fragrant marigold torans with precision and care.",
+    "startingPrice": 30000,
+    "heroImage": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "100% Farm-fresh premium flowers procured on event day",
+      "Custom color palettes matching your wedding stationery & outfits",
+      "Intricate floral walls, rangolis, and waterfall chandeliers",
+      "Long-lasting hydration treatment to keep blooms vibrant throughout"
+    ],
+    "packagesAvailable": [
+      "Traditional Marigold Delight",
+      "Exotic Orchid Bloom",
+      "Botanical Luxury Haven"
+    ],
+    "faqs": [
+      {
+        "question": "Are the flowers fresh on the day of the event?",
+        "answer": "Yes, we source fresh blooms directly on the morning of the setup to ensure peak freshness and fragrance."
+      }
+    ]
+  },
+  {
+    "id": "srv-7",
+    "slug": "balloon-decoration",
+    "title": "Balloon Decoration",
+    "category": "Birthday",
+    "shortDesc": "Modern organic balloon art, metallic arches, pastel balloon walls, helium clusters, and mascot installations.",
+    "fullDesc": "Elevate your party with breathtaking balloon sculptures! We use premium biodegradable latex and metallic foil balloons to build photogenic photo backdrops, balloon clouds, cascading staircases, and vibrant ceiling drops.",
+    "startingPrice": 12000,
+    "heroImage": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Organic balloon garlands in matte, pastel, and metallic chrome shades",
+      "Balloon arch entrances and whimsical backdrop rings",
+      "Helium table bouquets and confetti-filled clear jumbo balloons",
+      "Integrated floral accents and LED strip accents"
+    ],
+    "packagesAvailable": [
+      "Festive Balloon Arch",
+      "Grand Organic Cloud",
+      "Luxe Chrome Experience"
+    ],
+    "faqs": [
+      {
+        "question": "How long do balloon installations stay inflated?",
+        "answer": "Our air-filled balloon garlands stay fresh for up to 24-48 hours in indoor air-conditioned environments."
+      }
+    ]
+  },
+  {
+    "id": "srv-8",
+    "slug": "haldi-decoration",
+    "title": "Haldi Decoration",
+    "category": "Haldi",
+    "shortDesc": "Vibrant yellow & orange setups with traditional brass urli, marigold hangings, umbrella props, and colorful drapes.",
+    "fullDesc": "Brighten up your pre-wedding Haldi ceremony with joyful vibrant shades of turmeric yellow, sunshine orange, and emerald green. Featuring floral jhoolas, giant brass urlis for the couple ritual, decorated traditional mud pots, and lively photo corners.",
+    "startingPrice": 25000,
+    "heroImage": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Traditional Brass Urli setup with floating flower petals",
+      "Handcrafted Rajasthani umbrella photo booths and colorful pinwheels",
+      "Marigold tassel curtains and floral swing (Jhoola) decoration",
+      "Cushioned floor seating with vibrant ethnic gaddi and bolsters"
+    ],
+    "packagesAvailable": [
+      "Yellow Sunshine Haldi",
+      "Royal Brass Urli Haldi",
+      "Carnival Bohemian Haldi"
+    ],
+    "faqs": [
+      {
+        "question": "Do you provide the brass urli for the Haldi bath?",
+        "answer": "Yes! We provide vintage hand-beaten brass urlis in various diameters with petal trays."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-9",
+    "slug": "mehendi-decoration",
+    "title": "Mehendi Decoration",
+    "category": "Mehendi",
+    "shortDesc": "Vibrant bohemian canopies, floral swings, dreamcatchers, moroccan lanterns, and colorful low seating setups.",
+    "fullDesc": "Set the tone for singing, dancing, and henna rituals with our picturesque Mehendi setups. We combine colorful chiffon drapery, floral swings, macrame details, moroccan rugs, and quirky photo stations that your guests will adore.",
+    "startingPrice": 28000,
+    "heroImage": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Decorated wooden & floral swing for bride mehendi rituals",
+      "Bespoke dreamcatcher, mirror work, and tassel installations",
+      "Moroccan lantern alleys and colorful fairy light canopy",
+      "Low diwan seating with printed ethnic cushion spreads"
+    ],
+    "packagesAvailable": [
+      "Boho Vibes Mehendi",
+      "Rajasthani Mela Mehendi",
+      "Luxe Floral Garden Mehendi"
+    ],
+    "faqs": [
+      {
+        "question": "Can we add outdoor games or a bangle bar setup?",
+        "answer": "Yes, we can include interactive live bangle bars, mehendi favour corners, and photogenic rickshaw props."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-10",
+    "slug": "entrance-decoration",
+    "title": "Entrance Decoration",
+    "category": "Wedding",
+    "shortDesc": "Grand welcome arches, red carpet pathways, royal lanterns, floral tunnels, and customized couple signage.",
+    "fullDesc": "The entrance creates the critical first impression for your guests. We craft magnificent entrance arches, mirror walkways, floral gates, warm torch lights, and personalized welcome easel frames that welcome your loved ones with majesty.",
+    "startingPrice": 25000,
+    "heroImage": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Multi-tiered floral gateway with brass bell hangings",
+      "Illuminated pathway pillars with fresh flower bouquets",
+      "Welcome board with acrylic mirror lettering and floral frame",
+      "Red or ivory carpet runway with floor lanterns"
+    ],
+    "packagesAvailable": [
+      "Classic Welcome Gate",
+      "Royal Floral Tunnel",
+      "Grand Palace Gateways"
+    ],
+    "faqs": [
+      {
+        "question": "Do you create customized welcome boards?",
+        "answer": "Yes! We create laser-engraved golden mirror boards or illuminated acrylic boards with your names."
+      }
+    ]
+  },
+  {
+    "id": "srv-11",
+    "slug": "lighting-decoration",
+    "title": "Lighting Decoration",
+    "category": "Wedding",
+    "shortDesc": "Architectural facade lighting, fairy light canopies, warm Edison bulbs, ambient LED washes, and crystal chandeliers.",
+    "fullDesc": "Lighting defines the mood, richness, and photography quality of any evening celebration. Our master lighting technicians design fairy light tents, tree wrapping, ambient mood wash, sharp focus lights, and grand crystal chandeliers that create an awe-inspiring celestial environment.",
+    "startingPrice": 35000,
+    "heroImage": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Full venue fairy light sky canopy (10,000+ warm micro lights)",
+      "RGB DMX controllable venue wash lights and tree illumination",
+      "Edison vintage filament bulb hanging clusters",
+      "Intelligent beam fixtures and hazers for grand entries"
+    ],
+    "packagesAvailable": [
+      "Golden Glow Lighting",
+      "Starlit Celestial Canopy",
+      "Architectural Grandeur"
+    ],
+    "faqs": [
+      {
+        "question": "Do you handle the generator power backup for lighting?",
+        "answer": "We coordinate with silent generator power backups to ensure zero interruptions during your ceremonies."
+      }
+    ]
+  },
+  {
+    "id": "srv-12",
+    "slug": "baby-shower-decoration",
+    "title": "Baby Shower & Naming Ceremony",
+    "category": "Baby Shower",
+    "shortDesc": "Cute pastel themes, cradle floral styling, cloud backdrops, hot air balloon props, and gold lettering.",
+    "fullDesc": "Welcome the new bundle of joy with love and elegance! We create heartwarming Baby Shower (Godh Bharai / Seemantham) and Naming Ceremony setups featuring floral cradles, pastel balloon arches, teddy bear props, and custom name reveals.",
+    "startingPrice": 20000,
+    "heroImage": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Floral adorned traditional silver / wooden baby cradle (Palna)",
+      "Pastel blue, pink, or neutral ivory-gold theme backdrops",
+      "Life-sized teddy bear props and cloud cutouts with twinkle lights",
+      "Mom-to-be royal chair seating with floral canopy"
+    ],
+    "packagesAvailable": [
+      "Sweet Joy Setup",
+      "Pastel Wonderland",
+      "Royal Heritage Seemantham"
+    ],
+    "faqs": [
+      {
+        "question": "Can you decorate the traditional cradle at home?",
+        "answer": "Yes, we provide both home setup and banquet hall decoration services for baby showers."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-13",
+    "slug": "corporate-event-decoration",
+    "title": "Corporate Events & Galas",
+    "category": "Corporate",
+    "shortDesc": "Sleek professional stage setups, LED walls, branding backdrops, award gala styling, and gala dinner centerpieces.",
+    "fullDesc": "Elevate your brand presence with our corporate stage and conference styling. We deliver clean geometric backdrops, branded podiums, awards night glamour, and sleek networking lounge environments tailored to corporate identity.",
+    "startingPrice": 40000,
+    "heroImage": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Seamless brand-color backdrop with precision acrylic cut logos",
+      "Audio-Visual LED wall framing and sleek speaker podiums",
+      "Gala dinner VIP table setup with minimalist floral styling",
+      "Step-and-repeat media press wall for guest red-carpet entries"
+    ],
+    "packagesAvailable": [
+      "Executive Summit Setup",
+      "Annual Awards Gala",
+      "VIP Product Launch Lounge"
+    ],
+    "faqs": [
+      {
+        "question": "Can you integrate our company brand guidelines and logo colors?",
+        "answer": "Yes, our design team ensures exact brand pantone color matching and corporate precision."
+      }
+    ]
+  },
+  {
+    "id": "srv-14",
+    "slug": "complete-venue-decoration",
+    "title": "Complete Venue Decoration",
+    "category": "Wedding",
+    "shortDesc": "Full 360-degree turnkey event styling covering entrance, stage, mandap, dining, lawn illumination, and photo booths.",
+    "fullDesc": "Our flagship turnkey service handles every square foot of your wedding or event venue. From the moment guests step onto the driveway to the sacred rituals at the mandap and dining experiences, we orchestrate a cohesive luxury visual theme.",
+    "startingPrice": 150000,
+    "heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Turnkey management: Entrance, Pathways, Stage, Mandap, VIP Lounges, and Dining",
+      "Dedicated on-site production manager and 20+ craft technicians",
+      "Over 500+ premium floral arrangements and custom furniture sets",
+      "Comprehensive lighting mapping with backup electrical management"
+    ],
+    "packagesAvailable": [
+      "Heritage Royal Wedding",
+      "Imperial Palace Turnkey",
+      "Celebrity Grand Extravaganza"
+    ],
+    "faqs": [
+      {
+        "question": "Do you provide a 3D walkthrough or concept sketch prior to execution?",
+        "answer": "Yes! For complete venue transformations, we provide 3D visual mockups and material swatches during planning."
+      }
+    ],
+    "isFeatured": true
+  }
+]

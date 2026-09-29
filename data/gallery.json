@@ -1,0 +1,165 @@
+[
+  {
+    "id": "gal-1",
+    "title": "Royal Mandap with Cascading Red Roses",
+    "category": "Mandap",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    "location": "Jaipur Palace",
+    "description": "10,000 fresh red Dutch roses crafted into a sacred royal mandap.",
+    "aspectRatio": "landscape",
+    "isFeatured": true
+  },
+  {
+    "id": "gal-v1",
+    "title": "Grand Royal Palace Wedding Cinematic Walkthrough",
+    "category": "Wedding",
+    "mediaType": "video",
+    "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+    "youtubeId": "ScMzIvxBSi4",
+    "duration": "02:45",
+    "location": "Taj Jai Mahal Palace, Jaipur",
+    "description": "Full 360-degree night walkthrough of our royal wedding decor and starlit pathway.",
+    "aspectRatio": "landscape",
+    "isFeatured": true
+  },
+  {
+    "id": "gal-2",
+    "title": "Grand Palace Reception Stage",
+    "category": "Wedding",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+    "location": "Udaipur Grand Lawn",
+    "description": "3D Gold frame backdrop with crystal chandelier clusters.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-v2",
+    "title": "Waterfront Floating Glass Mandap Video Reel",
+    "category": "Mandap",
+    "mediaType": "video",
+    "imageUrl": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+    "youtubeId": "kJQP7kiw5Fk",
+    "duration": "01:30",
+    "location": "Udaivilas Resort, Udaipur",
+    "description": "Ethereal floating glass mandap illuminated with crystal reflections.",
+    "aspectRatio": "landscape",
+    "isFeatured": true
+  },
+  {
+    "id": "gal-3",
+    "title": "Fairy Light Starlit Ceiling Canopy",
+    "category": "Wedding",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=80",
+    "location": "New Delhi Farmhouse",
+    "description": "Over 15,000 warm fairy lights creating an indoor galaxy effect.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-v3",
+    "title": "Vibrant Sunflower Haldi & Floral Jhoola Reel",
+    "category": "Haldi",
+    "mediaType": "video",
+    "imageUrl": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+    "youtubeId": "3JZ_D3ELwOQ",
+    "duration": "01:15",
+    "location": "Alibaug Beach Resort",
+    "description": "Joyful Haldi ceremony setup with authentic brass urli and marigold cascades.",
+    "aspectRatio": "landscape",
+    "isFeatured": true
+  },
+  {
+    "id": "gal-4",
+    "title": "Vibrant Sunflower Haldi Urli Setup",
+    "category": "Haldi",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1200&q=80",
+    "location": "Alibaug Beach Resort",
+    "description": "Traditional hand-beaten brass urli surrounded by marigold blooms.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-5",
+    "title": "Pastel Floral Engagement Ring Arch",
+    "category": "Engagement",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1200&q=80",
+    "location": "The Leela, Mumbai",
+    "description": "Circular infinity floral ring with pastel hydrangeas and roses.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-6",
+    "title": "Royal 1st Birthday Carousel Castle",
+    "category": "Birthday",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1200&q=80",
+    "location": "Hyatt Regency, Pune",
+    "description": "Illuminated 3D castle facade with pastel balloon garlands.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-7",
+    "title": "Bohemian Floral Swing Mehendi",
+    "category": "Mehendi",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80",
+    "location": "Goa Heritage Villa",
+    "description": "Intricately draped wooden jhoola with fresh marigolds and dreamcatchers.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-8",
+    "title": "Traditional Temple Lotus Baby Shower",
+    "category": "Baby Shower",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80",
+    "location": "Bengaluru Banquet",
+    "description": "Golden lotus cradle with fresh fragrant jasmine strings.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-9",
+    "title": "Waterfront Glass Mandap",
+    "category": "Mandap",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80",
+    "location": "Udaipur Lakeside",
+    "description": "Reflective crystal glass pillars on open water pavilion.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-10",
+    "title": "Grand Entrance Royal Floral Gateway",
+    "category": "Wedding",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=80",
+    "location": "Kolkata Royal Club",
+    "description": "Multi-tier floral gateway with brass lanterns and red carpet.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-11",
+    "title": "Luxe Corporate Annual Gala Stage",
+    "category": "Corporate",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
+    "location": "Grand Hyatt, Mumbai",
+    "description": "Geometric LED backdrop with branded awards stage setup.",
+    "aspectRatio": "landscape"
+  },
+  {
+    "id": "gal-12",
+    "title": "Romantic Candlelit Dinner Tables",
+    "category": "Wedding",
+    "mediaType": "image",
+    "imageUrl": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&w=1200&q=80",
+    "location": "ITC Grand Bharat, Gurugram",
+    "description": "Tall candelabras with ivory silk table runners and orchid centerpieces.",
+    "aspectRatio": "landscape"
+  }
+]

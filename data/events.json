@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Royal decoration",
+    "slug": "royal-decoration",
+    "eventType": "Baby Shower",
+    "location": "Divashi bk, Satara",
+    "date": "Recent Event",
+    "guestCount": 35,
+    "shortDesc": "Very good baby shower background and theme decoration with floral accents and lighting.",
+    "fullDesc": "A delightful celebration in Divashi BK featuring background theme styling, custom floral cradle elements, and an Instagram video reel walkthrough.",
+    "heroImage": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1600&q=80",
+    "videoUrl": "https://www.instagram.com/reel/DZK5O_TIcSL/",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Background Theme Decoration",
+      "Floral Accents",
+      "Stage Lighting"
+    ],
+    "packageUsed": "Royal Package",
+    "isFeatured": true,
+    "id": "evt-1788676470609"
+  },
+  {
+    "id": "evt-royal-bday",
+    "slug": "royal-birthday",
+    "title": "Royal birthday",
+    "eventType": "Birthday",
+    "location": "Divashi BK, Satara",
+    "date": "Recent Event",
+    "guestCount": 350,
+    "shortDesc": "Short and grand birthday decoration celebration with custom balloon arches, royal stage backdrop and ambient lighting.",
+    "fullDesc": "A stunning birthday celebration in Divashi BK, Satara, featuring luxury gold & pastel balloons, custom 3D cake backdrop, ambient spotlights, and customized entrance arch designed by Shivansh Decoration.",
+    "heroImage": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Birthday Theme Setup",
+      "Balloon Arch",
+      "Royal Stage Lighting",
+      "Custom Cake Backdrop"
+    ],
+    "packageUsed": "Royal Package",
+    "clientReview": {
+      "author": "Pravin Patil",
+      "rating": 5,
+      "comment": "Shivansh Decoration did an incredible job for our birthday celebration in Divashi BK! Very punctual, creative, and beautiful setup."
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "evt-1",
+    "slug": "royal-palace-wedding",
+    "title": "The Royal Heritage Wedding of Aditi & Vikram",
+    "eventType": "Wedding",
+    "location": "Taj Jai Mahal Palace, Jaipur",
+    "date": "February 2026",
+    "guestCount": 650,
+    "shortDesc": "A majestic crimson and champagne gold palace wedding featuring a 10,000-bloom fresh rose mandap.",
+    "fullDesc": "For Aditi & Vikram’s destination wedding, Shivansh Decoration transformed the royal courtyards with handcrafted brass kalash pillars, cascading red Dutch roses, velvet drape canopies, and fairy-lit tree avenues that captured the royal Rajputana essence.",
+    "heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Mandap Decoration",
+      "Wedding Stage",
+      "Entrance Gateway",
+      "Full Lighting"
+    ],
+    "packageUsed": "Royal Package",
+    "clientReview": {
+      "author": "Aditi & Vikram Singhania",
+      "rating": 5,
+      "comment": "Shivansh Decoration made our dream wedding look like a royal movie set! Every guest was mesmerized by the fresh flowers and the majestic mandap. Truly unmatched quality."
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "evt-2",
+    "slug": "luxury-glass-mandap",
+    "title": "Modern Glass Mandap on Water Pavilion",
+    "eventType": "Mandap",
+    "location": "Udaivilas Resort, Udaipur",
+    "date": "January 2026",
+    "guestCount": 400,
+    "shortDesc": "An ethereal floating glass mandap surrounded by floating lotus petals and crystal hangings.",
+    "fullDesc": "Set across the tranquil water reflection pool, this mandap featured clear acrylic pillars wrapped in baby’s breath and white lilies, with glowing underwater LED reflections that made the ceremony look divine.",
+    "heroImage": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Mandap Decoration",
+      "Water Pavilion Styling",
+      "Ambient Spotlighting"
+    ],
+    "packageUsed": "Royal Package",
+    "clientReview": {
+      "author": "Rohan & Sneha Kapoor",
+      "rating": 5,
+      "comment": "The glass reflection on the water was breathtaking. The team executed the complex structure flawlessly on time."
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "evt-3",
+    "slug": "pastel-floral-engagement",
+    "title": "Blush & Gold Garden Engagement",
+    "eventType": "Engagement",
+    "location": "The Oberoi Lawn, New Delhi",
+    "date": "December 2025",
+    "guestCount": 250,
+    "shortDesc": "A dreamy evening ring ceremony surrounded by pastel hydrangeas and a giant floral infinity arch.",
+    "fullDesc": "A romantic pastel haven featuring soft blush roses, eucalyptus foliage, delicate crystal chandeliers, and custom neon hashtag photo booths that provided the perfect romantic backdrop.",
+    "heroImage": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Engagement Stage",
+      "Floral Arches",
+      "Fairy Light Pathways"
+    ],
+    "packageUsed": "Premium Package",
+    "clientReview": {
+      "author": "Pooja & Karan Mehra",
+      "rating": 5,
+      "comment": "The pastel floral ring setup was straight out of Pinterest! The team was polite, responsive, and very creative."
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "evt-4",
+    "slug": "vibrant-haldi-mela",
+    "title": "Sunflower & Brass Urli Haldi Carnival",
+    "eventType": "Haldi",
+    "location": "Radisson Blu Resort, Alibaug",
+    "date": "November 2025",
+    "guestCount": 200,
+    "shortDesc": "A sun-drenched pool party Haldi with marigold tassels, brass bath urlis, and Rajasthani umbrellas.",
+    "fullDesc": "Filled with high-energy colors, this Haldi event included a floating pool flower installation, vibrant floor diwans, sunflower backdrops, and interactive smoke flare photo zones.",
+    "heroImage": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Haldi Decoration",
+      "Floral Jhoola",
+      "Brass Urli Setup"
+    ],
+    "packageUsed": "Premium Package",
+    "clientReview": {
+      "author": "Ananya Sharma",
+      "rating": 5,
+      "comment": "Super colorful and vibrant! Our family photos from the Haldi ceremony look absolutely incredible."
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "evt-5",
+    "slug": "royal-1st-birthday",
+    "title": "Prince Aaryan’s 1st Royal Carousel Birthday",
+    "eventType": "Birthday",
+    "location": "Hyatt Regency Banquet, Mumbai",
+    "date": "October 2025",
+    "guestCount": 180,
+    "shortDesc": "A grand pastel blue and gold carousel theme party with 3D castle cutouts and balloon clouds.",
+    "fullDesc": "Designed to feel like a royal fairytale, this birthday featured an illuminated 12-ft castle facade, rotating carousel photo booth, chrome balloon clouds, and customized chocolate cart displays.",
+    "heroImage": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Birthday Decoration",
+      "Balloon Art",
+      "Thematic Lighting"
+    ],
+    "packageUsed": "Premium Package",
+    "clientReview": {
+      "author": "Dr. Nikhil & Neha Verma",
+      "rating": 5,
+      "comment": "The carousel setup exceeded all our expectations! The kids and adults were both completely thrilled."
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "evt-6",
+    "slug": "divine-baby-shower",
+    "title": "Lotus & Gold Traditional Seemantham",
+    "eventType": "Baby Shower",
+    "location": "JW Marriott, Bengaluru",
+    "date": "September 2025",
+    "guestCount": 120,
+    "shortDesc": "An elegant golden lotus cradle ceremony with fresh jasmine garlands and brass bell chimes.",
+    "fullDesc": "A divine celebration welcoming new life, with an intricately carved gold cradle wrapped in fresh tuberose, lotus bud centerpieces, and traditional temple floral archways.",
+    "heroImage": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "servicesIncluded": [
+      "Baby Shower Setup",
+      "Floral Cradle",
+      "Temple Backdrop"
+    ],
+    "packageUsed": "Basic Package",
+    "clientReview": {
+      "author": "Divya & Karthik Rao",
+      "rating": 5,
+      "comment": "Traditional, sacred, and stunning. Shivansh Decoration respected all our cultural requests with great care."
+    },
+    "isFeatured": true
+  }
+]

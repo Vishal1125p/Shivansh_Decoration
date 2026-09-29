@@ -1,0 +1,59 @@
+[
+  {
+    "id": "pkg-basic",
+    "name": "Basic Package",
+    "tagline": "Ideal for intimate home celebrations, small birthdays, and traditional poojas.",
+    "startingPrice": 6000,
+    "badge": "Popular for Small Events",
+    "idealFor": "50 - 100 Guests",
+    "description": "A charming, high-value decoration setup designed for intimate gatherings, birthday milestones, and pooja ceremonies.",
+    "inclusions": [
+      "Custom 10x8 ft Backdrop Setup",
+      "Organic Balloon Garland or Marigold Draping",
+      "Warm LED Focus Spotlight (4 units)",
+      "Thematic Couple / Birthday Seating",
+      "Welcome Signage with Floral Accents",
+      "Standard Cake / Ritual Table Decor",
+      "Professional Setup & Dismantling Team"
+    ]
+  },
+  {
+    "id": "pkg-premium",
+    "name": "Premium Package",
+    "tagline": "Crafted for grand engagements, vibrant haldi-mehendi, and stylish weddings.",
+    "startingPrice": 20000,
+    "highlighted": true,
+    "badge": "Most Chosen by Couples",
+    "idealFor": "150 - 400 Guests",
+    "description": "Our most popular comprehensive package featuring lavish stage backdrops, fresh floral styling, and elegant entrance arches.",
+    "inclusions": [
+      "Grand 24x12 ft 3D Stage / Mandap Structure",
+      "Fresh Exotic Floral Arrangements (Roses, Carnations, Rajnigandha)",
+      "Luxurious Couple Sofa / Maharaja Chairs with Royal Cushions",
+      "Designer Welcome Arch with Mirror Monogram Signage",
+      "Pathway Illumination with 12+ Decorative Lanterns & Pillars",
+      "Fairy Light Canopy for Stage & Seating Zones",
+      "Special Haldi / Mehendi Props or Ring Ceremony Arc",
+      "Dedicated On-site Event Coordinator"
+    ]
+  },
+  {
+    "id": "pkg-royal",
+    "name": "Royal Package",
+    "tagline": "The ultimate luxury experience for palace weddings and multi-day celebrations.",
+    "startingPrice": 50000,
+    "badge": "Luxury Signature Experience",
+    "idealFor": "400+ Guests & Large Lawns",
+    "description": "An opulent, turnkey aesthetic masterpiece featuring 360-degree venue transformation, imported florals, and architectural lighting.",
+    "inclusions": [
+      "Bespoke Royal Mandap with Glass / Carved Pillars & Floral Dome",
+      "Palatial Stage Backdrop with Crystal Chandeliers & LED Ambience",
+      "Imported Fresh Dutch Florals (Orchids, Lilies, Hydrangeas, Roses)",
+      "Grand Royal Tunnel Entrance with Carpet Runway & Cold Pyros Setup",
+      "Complete Venue Fairy Light Sky Ceiling & Tree Illumination",
+      "VIP Lounge Styling with Plush Velvet Furniture & Floral Centerpieces",
+      "Custom Neon Hashtag Signage & Interactive 360 Photo Booth Backdrop",
+      "Senior Creative Director & 15+ Round-the-clock Decor Crew"
+    ]
+  }
+]

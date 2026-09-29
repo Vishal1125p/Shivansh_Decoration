@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tst-1",
+    "name": "Rajesh & Sunita Singhal",
+    "eventType": "Daughter’s Grand Wedding",
+    "location": "Jaipur",
+    "rating": 5,
+    "comment": "Shivansh Decoration exceeded all our expectations! From our initial phone call to the late-night wedding bidaai, their execution was flawless. The mandap was the talk of all our 800 guests. Thank you for making our daughter’s big day unforgettable!",
+    "date": "January 2026",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
+  },
+  {
+    "id": "tst-2",
+    "name": "Ankit & Ritu Aggarwal",
+    "eventType": "Royal Reception & Sangeet",
+    "location": "New Delhi",
+    "rating": 5,
+    "comment": "Extremely professional team! The lighting and stage backdrop were world-class. They finished setup 3 hours before time, giving us full peace of mind. We wholeheartedly recommend Shivansh Decoration!",
+    "date": "December 2025",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80"
+  },
+  {
+    "id": "tst-3",
+    "name": "Meghna & Dhruv Shah",
+    "eventType": "Haldi & Mehendi Fiesta",
+    "location": "Ahmedabad",
+    "rating": 5,
+    "comment": "The floral swing and the brass urli Haldi decoration were straight out of a dream! The colors were so vibrant, our wedding photos look like a magazine spread. Truly 10/10 service.",
+    "date": "November 2025",
+    "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80"
+  },
+  {
+    "id": "tst-4",
+    "name": "Vikram Joshi (VP Operations)",
+    "eventType": "Corporate Annual Gala & Awards",
+    "location": "Mumbai",
+    "rating": 5,
+    "comment": "We hired Shivansh Decoration for our corporate summit of 500 delegates. The precision in brand colors, clean geometric stage lines, and punctual execution were top-notch.",
+    "date": "October 2025",
+    "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80"
+  }
+]
